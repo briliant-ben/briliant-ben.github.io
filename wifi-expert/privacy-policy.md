@@ -1,0 +1,30 @@
+---
+layout: default
+title: WiFi Expert - Privacy Policy
+---
+
+# Privacy Policy for WiFi Expert
+
+**Effective Date:** April 2026
+
+Thank you for choosing **WiFi Expert**. Your privacy is important to us. This Privacy Policy explains how our application collects, uses, and handles your information when you use our services.
+
+## 1. Information Collection and Use
+
+**WiFi Expert is designed to operate locally on your device.** To provide its core network diagnostics and analysis features, the app requires specific device permissions:
+
+*   **Location Permissions (ACCESS_FINE_LOCATION, ACCESS_COARSE_LOCATION):** 
+    Android requires location permissions for apps to scan for and retrieve detailed information about nearby Wi-Fi networks (SSID, BSSID, RSSI, etc.). We use this permission **solely** to perform network scans and establish local P2P/NAN connections as requested by you.
+*   **Wi-Fi and Network State:** 
+    We access your device's Wi-Fi state to display real-time connection telemetry (e.g., connection speed, frequency band) and to allow you to configure features like Autonomous Group Owner (GO).
+
+**No Data Transmission:** We do **NOT** upload, transmit, share, or sell your location data, network configurations, or personal information to any external servers, third parties, or cloud services. All network analysis is performed locally on your device.
+
+## 2. P2P and NAN Connections
+When you use the Wi-Fi Direct (P2P) or Wi-Fi Aware (NAN) features, your device communicates directly with nearby peer devices. This data exchange occurs over a local, ad-hoc wireless network and does not route through our servers. 
+
+## 3. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
+
+## 4. Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at the developer email provided on the Google Play Store listing.
