@@ -14,6 +14,11 @@ A professional WiFi network analysis and diagnostics tool for Android.
 - 📊 **Features**: Real-time RSSI monitoring, autonomous P2P Group Owner configuration, network speed tests, and localized network diagnostics.
 - 📄 **[Privacy Policy](./wifi-expert/privacy-policy.html)** 
 
+### **BLE Expert**
+A professional Bluetooth LE engineering and diagnostics tool for Android.
+- 📊 **Features**: LE scanning, GATT client and server, advertising, and Bluetooth Mesh provisioning over PB-GATT.
+- 📄 **[Privacy Policy](./ble-expert/privacy-policy.html)** 
+
 ---
 
-*Last updated: April 2026*
+*Last updated: October 2026*
